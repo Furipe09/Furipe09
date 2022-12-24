@@ -12,12 +12,12 @@ construção de Remediações para a AWS utilizando Terraform e Python.
 Implementei, difundi e documentei as prática de monitorações por logs, métricas, APM e alertas, com base nos 4 sinais de ouro, RED, USE. 
 Utilizando as ferramentas Splunk, Prometheus, Grafana, Alertmanager e Appdynamics
  
- ### :fire: Meus Status :
+ ### :fire: My Status :
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-alexandre-vieira/) 
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Furipe09) 
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/daf38308-e6d6-4d37-931d-fffb2df32db7/linked_in)
 
-## CERTIFICATIONS:
+## Certifications:
  - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/daf38308-e6d6-4d37-931d-fffb2df32db7/linked_in)
  - [SRE Foundation Certification](https://www.linkedin.com/feed/update/urn:li:activity:6902217279426441216/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6902217279426441216%29)
  - [Scrum Product Owner Foundation Certification](https://images.credential.net/embed/9jvqdzui.png)
@@ -28,7 +28,7 @@ Utilizando as ferramentas Splunk, Prometheus, Grafana, Alertmanager e Appdynamic
  - [Devops Essentials Certification](https://images.credential.net/embed/auz5wpjx.png)
  - [Agile Scrum Fundamentais Certification](https://images.credential.net/embed/vs9glu7c.png)
 
-## COURSES:
+## Courses:
 - [Certificação Amazon AWS Solutions Architect Associate 2022 - 09/2022](https://itau.udemy.com/certificate/UC-d10240ae-9920-47f3-ae3c-cb1abc025969/)
 - [Uncomplicating Docker - 06/2022](https://www.credential.net/fcd00b28-a332-4ed1-86e5-09bbd0c7190d#gs.lao431)
 - [Automação para Amazon AWS com Python 3 - 04/2022](https://itau.udemy.com/certificate/UC-bf4c22fc-d5e0-4df8-8b61-5359f336bf9d/)
@@ -42,8 +42,11 @@ Utilizando as ferramentas Splunk, Prometheus, Grafana, Alertmanager e Appdynamic
 - [Monitoramento de aplicações com Prometheus e Grafana - 08/2020](https://www.udemy.com/certificate/UC-e9de6b66-3a8d-4673-8e36-c0a6136e14c3/)
 
 
-## COMPLEMENTARY SKILLS:
+## Complementary Skills:
 fafsafasf,
+
+## Development Roadmap
+- [Roadmap here](https://github.com/Furipe09/Development_Roadmap#readme)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Furipe09&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
