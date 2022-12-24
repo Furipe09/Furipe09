@@ -33,14 +33,17 @@ Utilizando as ferramentas Splunk, Prometheus, Grafana, Alertmanager e Appdynamic
 - [Uncomplicating Docker - 06/2022](https://www.credential.net/fcd00b28-a332-4ed1-86e5-09bbd0c7190d#gs.lao431)
 - [Automação para Amazon AWS com Python 3 - 04/2022](https://itau.udemy.com/certificate/UC-bf4c22fc-d5e0-4df8-8b61-5359f336bf9d/)
 - [DevOps: AWS com Terraform Automatizando sua infraestrutura - 03/2022](https://www.udemy.com/certificate/UC-1ba94807-35cf-44b7-8b43-e79341788915/)
-- [AMAZON CLOUDWATCH: VISIBILIDADE COMPLETA DAS APLICAÇÕES E SERVIÇOS NA NUVEM - 06/2021](https://cursos.alura.com.br/certificate/5cf11198-9bce-43da-a3d3-a1eaa50dffa4)
-- [AWS Well-Architectd Framework - 06/2021](https://webfor.com.br/certificates/certificado-aws-well-architected-framework/?course_id=3723&cert-nonce=5253ef7fac)
-- [AWS para Iniciantes 2022 - Aprenda e Domine a nuvem Amazon - 05/2021](https://itau.udemy.com/certificate/UC-5e71e360-5601-4551-a55e-8091c61b1c06/)
-- [Git Completo: Do Básico ao Avançado - 05/2021](https://itau.udemy.com/certificate/UC-e67f9e0e-5c29-4559-81d3-4110a38e7614/)
-- [Entendendo e documentando REST / RESTful APIs - 04/2021](https://itau.udemy.com/certificate/UC-02a2c209-1680-498e-926b-805fe31b1928/)
-- [Site Reliability Engineering: Measuring and Managing Reliability - 01/2021](https://www.coursera.org/account/accomplishments/verify/V26TZB5GYYGF)
-- [Monitoramento de aplicações com Prometheus e Grafana - 08/2020](https://www.udemy.com/certificate/UC-e9de6b66-3a8d-4673-8e36-c0a6136e14c3/)
-
+- <details><summary>2021</summary>
+  <p>
+  - [AMAZON CLOUDWATCH: VISIBILIDADE COMPLETA DAS APLICAÇÕES E SERVIÇOS NA NUVEM - 06/2021](https://cursos.alura.com.br/certificate/5cf11198-9bce-43da-a3d3-a1eaa50dffa4)
+  - [AWS Well-Architectd Framework - 06/2021](https://webfor.com.br/certificates/certificado-aws-well-architected-framework/?course_id=3723&cert-nonce=5253ef7fac)
+  - [AWS para Iniciantes 2022 - Aprenda e Domine a nuvem Amazon - 05/2021](https://itau.udemy.com/certificate/UC-5e71e360-5601-4551-a55e-8091c61b1c06/)
+  - [Git Completo: Do Básico ao Avançado - 05/2021](https://itau.udemy.com/certificate/UC-e67f9e0e-5c29-4559-81d3-4110a38e7614/)
+  - [Entendendo e documentando REST / RESTful APIs - 04/2021](https://itau.udemy.com/certificate/UC-02a2c209-1680-498e-926b-805fe31b1928/)
+  - [Site Reliability Engineering: Measuring and Managing Reliability - 01/2021](https://www.coursera.org/account/accomplishments/verify/V26TZB5GYYGF)
+  - [Monitoramento de aplicações com Prometheus e Grafana - 08/2020](https://www.udemy.com/certificate/UC-e9de6b66-3a8d-4673-8e36-c0a6136e14c3/)
+   </p>
+ </details>
 
 ## Complementary Skills:
 fafsafasf,
