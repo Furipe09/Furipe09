@@ -6,34 +6,46 @@ You can click the Preview link to take a look at your changes.
 # Felipe Vieira
 
 ## About Me
+
 Sou engajado na cultura SRE, destacando-se no Observability, aplicação de PRR para identificação de oportunidades e melhorias na confiabilidade das aplicações, 
 construção de Remediações para a AWS utilizando Terraform e Python.
 
 Implementei, difundi e documentei as prática de monitorações por logs, métricas, APM e alertas, com base nos 4 sinais de ouro, RED, USE. 
 Utilizando as ferramentas Splunk, Prometheus, Grafana, Alertmanager e Appdynamics
  
- ### :fire: My Status :
+### :fire: My Status :
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-alexandre-vieira/) 
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Furipe09) 
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/daf38308-e6d6-4d37-931d-fffb2df32db7/linked_in)
 
 ## Certifications:
- - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/daf38308-e6d6-4d37-931d-fffb2df32db7/linked_in)
- - [SRE Foundation Certification](https://www.linkedin.com/feed/update/urn:li:activity:6902217279426441216/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6902217279426441216%29)
- - [Scrum Product Owner Foundation Certification](https://images.credential.net/embed/9jvqdzui.png)
- - [Scrum Master Foundation Certification](https://images.credential.net/embed/kw4jm0wb.png)
- - [Scrum Essentials Certification](https://images.credential.net/embed/n4ngnfxa.png)
- - [Lean IT Essentials Certification](https://images.credential.net/embed/dlyodgeb.png)
- - [Devops Lead](https://images.credential.net/embed/q8ly8u7c.png)
- - [Devops Essentials Certification](https://images.credential.net/embed/auz5wpjx.png)
- - [Agile Scrum Fundamentais Certification](https://images.credential.net/embed/vs9glu7c.png)
+
+<details><summary>All Certifications</summary>
+  <p>
+  - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/daf38308-e6d6-4d37-931d-fffb2df32db7/linked_in)
+  - [SRE Foundation Certification](https://www.linkedin.com/feed/update/urn:li:activity:6902217279426441216/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6902217279426441216%29)
+  - [Scrum Product Owner Foundation Certification](https://images.credential.net/embed/9jvqdzui.png)
+  - [Scrum Master Foundation Certification](https://images.credential.net/embed/kw4jm0wb.png)
+  - [Scrum Essentials Certification](https://images.credential.net/embed/n4ngnfxa.png)
+  - [Lean IT Essentials Certification](https://images.credential.net/embed/dlyodgeb.png)
+  - [Devops Lead](https://images.credential.net/embed/q8ly8u7c.png)
+  - [Devops Essentials Certification](https://images.credential.net/embed/auz5wpjx.png)
+  - [Agile Scrum Fundamentais Certification](https://images.credential.net/embed/vs9glu7c.png)
+ </p>
+</details>
 
 ## Courses:
-- [Certificação Amazon AWS Solutions Architect Associate 2022 - 09/2022](https://itau.udemy.com/certificate/UC-d10240ae-9920-47f3-ae3c-cb1abc025969/)
-- [Uncomplicating Docker - 06/2022](https://www.credential.net/fcd00b28-a332-4ed1-86e5-09bbd0c7190d#gs.lao431)
-- [Automação para Amazon AWS com Python 3 - 04/2022](https://itau.udemy.com/certificate/UC-bf4c22fc-d5e0-4df8-8b61-5359f336bf9d/)
-- [DevOps: AWS com Terraform Automatizando sua infraestrutura - 03/2022](https://www.udemy.com/certificate/UC-1ba94807-35cf-44b7-8b43-e79341788915/)
-- <details><summary>2021</summary>
+
+<details><summary>2022</summary>
+  <p>
+  - [Certificação Amazon AWS Solutions Architect Associate 2022 - 09/2022](https://itau.udemy.com/certificate/UC-d10240ae-9920-47f3-ae3c-cb1abc025969/)
+  - [Uncomplicating Docker - 06/2022](https://www.credential.net/fcd00b28-a332-4ed1-86e5-09bbd0c7190d#gs.lao431)
+  - [Automação para Amazon AWS com Python 3 - 04/2022](https://itau.udemy.com/certificate/UC-bf4c22fc-d5e0-4df8-8b61-5359f336bf9d/)
+  - [DevOps: AWS com Terraform Automatizando sua infraestrutura - 03/2022](https://www.udemy.com/certificate/UC-1ba94807-35cf-44b7-8b43-e79341788915/)
+  </p>
+</details>
+<details><summary>2021</summary>
   <p>
   - [AMAZON CLOUDWATCH: VISIBILIDADE COMPLETA DAS APLICAÇÕES E SERVIÇOS NA NUVEM - 06/2021](https://cursos.alura.com.br/certificate/5cf11198-9bce-43da-a3d3-a1eaa50dffa4)
   - [AWS Well-Architectd Framework - 06/2021](https://webfor.com.br/certificates/certificado-aws-well-architected-framework/?course_id=3723&cert-nonce=5253ef7fac)
@@ -42,8 +54,8 @@ Utilizando as ferramentas Splunk, Prometheus, Grafana, Alertmanager e Appdynamic
   - [Entendendo e documentando REST / RESTful APIs - 04/2021](https://itau.udemy.com/certificate/UC-02a2c209-1680-498e-926b-805fe31b1928/)
   - [Site Reliability Engineering: Measuring and Managing Reliability - 01/2021](https://www.coursera.org/account/accomplishments/verify/V26TZB5GYYGF)
   - [Monitoramento de aplicações com Prometheus e Grafana - 08/2020](https://www.udemy.com/certificate/UC-e9de6b66-3a8d-4673-8e36-c0a6136e14c3/)
-   </p>
- </details>
+  </p>
+</details>
 
 ## Complementary Skills:
 fafsafasf,
@@ -51,21 +63,26 @@ fafsafasf,
 ## Challengers and Code Exercises
   - [Terraform Challenge 1](https://github.com/Furipe09/Challenge1-Terraform)
   - [Terraform Challenge 2](https://github.com/Furipe09/Challenge2-Terraform)
-  - [Python Challenge 1](https://github.com/Furipe09/Challenge-Python
-  
+  - [Python Challenge 1](https://github.com/Furipe09/Challenge-Python)
   
 ## Development Roadmap
-- [Roadmap here](https://github.com/Furipe09/Development_Roadmap#readme)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Furipe09&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [Roadmap here](https://github.com/Furipe09/Development_Roadmap#readme) </br>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Furipe09&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### **Badges references**
+
+- <details><summary>Badges references</summary>
+  <p>
   - https://github.com/Ileriayo/markdown-badges
   - https://devicon.dev/
   - https://github.com/Ileriayo/markdown-badges
   - https://dev.to/envoy_/150-badges-for-github-pnk
-
+   </p>
+ </details>
+   
 ### **To see**
+- <details><summary>To see</summary>
+  <p>
   - HackerEarth - https://www.hackerearth.com/@Furipe09
   - InterviewBit - https://www.interviewbit.com/profile/Furipe09
   - CodeChef - https://www.codechef.com/users/Furipe09
@@ -89,3 +106,5 @@ fafsafasf,
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+  </p>
+  </details>
