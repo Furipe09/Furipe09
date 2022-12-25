@@ -48,6 +48,12 @@ Utilizando as ferramentas Splunk, Prometheus, Grafana, Alertmanager e Appdynamic
 ## Complementary Skills:
 fafsafasf,
 
+## Challengers and Code Exercises
+  - [Terraform Challenge 1](https://github.com/Furipe09/Challenge1-Terraform)
+  - [Terraform Challenge 2](https://github.com/Furipe09/Challenge2-Terraform)
+  - [Python Challenge 1](https://github.com/Furipe09/Challenge-Python
+  
+  
 ## Development Roadmap
 - [Roadmap here](https://github.com/Furipe09/Development_Roadmap#readme)
 
