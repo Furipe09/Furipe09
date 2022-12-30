@@ -83,7 +83,7 @@ fafsafasf,
 ### **To see**
 - <details><summary>To see</summary>
   <p>
-  - HackerEarth - https://www.hackerearth.com/@Furipe09
+  - HackerEarth - https://www.hackerearth.com/@felipe09
   - InterviewBit - https://www.interviewbit.com/profile/Furipe09
   - CodeChef - https://www.codechef.com/users/Furipe09
   - [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Furipe09/)
