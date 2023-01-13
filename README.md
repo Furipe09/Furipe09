@@ -15,14 +15,12 @@ Utilizando as ferramentas Splunk, Prometheus, Grafana, Alertmanager e Appdynamic
  
 ### :fire: My Status :
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-alexandre-vieira/) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-alexandre-vieira/)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Furipe09) 
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/daf38308-e6d6-4d37-931d-fffb2df32db7/linked_in)
 
 ## Certifications:
 
-<details><summary>All Certifications</summary>
-  <p>
   - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/daf38308-e6d6-4d37-931d-fffb2df32db7/linked_in)
   - [SRE Foundation Certification](https://www.linkedin.com/feed/update/urn:li:activity:6902217279426441216/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6902217279426441216%29)
   - [Scrum Product Owner Foundation Certification](https://images.credential.net/embed/9jvqdzui.png)
@@ -32,21 +30,18 @@ Utilizando as ferramentas Splunk, Prometheus, Grafana, Alertmanager e Appdynamic
   - [Devops Lead](https://images.credential.net/embed/q8ly8u7c.png)
   - [Devops Essentials Certification](https://images.credential.net/embed/auz5wpjx.png)
   - [Agile Scrum Fundamentais Certification](https://images.credential.net/embed/vs9glu7c.png)
- </p>
-</details>
 
 ## Courses:
 
-<details><summary>2022</summary>
-  <p>
-  - [Certificação Amazon AWS Solutions Architect Associate 2022 - 09/2022](https://itau.udemy.com/certificate/UC-d10240ae-9920-47f3-ae3c-cb1abc025969/)
+### 2022:
+
+- [Certificação Amazon AWS Solutions Architect Associate 2022 - 09/2022](https://itau.udemy.com/certificate/UC-d10240ae-9920-47f3-ae3c-cb1abc025969/)
   - [Uncomplicating Docker - 06/2022](https://www.credential.net/fcd00b28-a332-4ed1-86e5-09bbd0c7190d#gs.lao431)
   - [Automação para Amazon AWS com Python 3 - 04/2022](https://itau.udemy.com/certificate/UC-bf4c22fc-d5e0-4df8-8b61-5359f336bf9d/)
   - [DevOps: AWS com Terraform Automatizando sua infraestrutura - 03/2022](https://www.udemy.com/certificate/UC-1ba94807-35cf-44b7-8b43-e79341788915/)
-  </p>
-</details>
-<details><summary>2021</summary>
-  <p>
+
+### 2021:
+
   - [AMAZON CLOUDWATCH: VISIBILIDADE COMPLETA DAS APLICAÇÕES E SERVIÇOS NA NUVEM - 06/2021](https://cursos.alura.com.br/certificate/5cf11198-9bce-43da-a3d3-a1eaa50dffa4)
   - [AWS Well-Architectd Framework - 06/2021](https://webfor.com.br/certificates/certificado-aws-well-architected-framework/?course_id=3723&cert-nonce=5253ef7fac)
   - [AWS para Iniciantes 2022 - Aprenda e Domine a nuvem Amazon - 05/2021](https://itau.udemy.com/certificate/UC-5e71e360-5601-4551-a55e-8091c61b1c06/)
